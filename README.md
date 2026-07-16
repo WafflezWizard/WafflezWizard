@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=C7E8F7&center=true&vCenter=true&width=1024&lines=Oscar+%7C+Information+%26+Technology+Design;FPGAs+%E2%8B%85+RFSoCs+%E2%8B%85++DSP+" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=C7E8F7&center=true&vCenter=true&width=1024&lines=Oscar+%7C+Information+%26+Technology+Design;Programming+%E2%8B%85+Research+%E2%8B%85++Design+" alt="Typing SVG" /></a>
 
 ## Languages I Use
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
